@@ -1,0 +1,51 @@
+[
+    {
+      name: 'Anukul',
+      id:1,
+      address: 'KGP',
+      phone: '8967264151',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png'
+    },
+    {
+      name: 'Anukul',
+      id:2,
+      address: 'KGP',
+      phone: '8967264151',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png'
+    },
+    {
+      name: 'Anukul',
+      id:3,
+      address: 'KGP',
+      phone: '8967264151',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png'
+    },
+    {
+      name: 'Anukul',
+      id:4,
+      address: 'KGP',
+      phone: '8967264151',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png'
+    },
+    {
+      name: 'Anukul',
+      id:5,
+      address: 'KGP',
+      phone: '8967264151',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png'
+    },
+    {
+      name: 'Anukul',
+      id:6,
+      address: 'KGP',
+      phone: '8967264151',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png'
+    },
+    {
+      name: 'Anukul',
+      id:7,
+      address: 'KGP',
+      phone: '8967264151',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/1200px-Google_2015_logo.svg.png'
+    },
+  ]
